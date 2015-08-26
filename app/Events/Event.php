@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace SurveyDetective\Events;
 
 abstract class Event
 {

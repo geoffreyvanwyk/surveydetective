@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace SurveyDetective\Jobs;
 
 use Illuminate\Bus\Queueable;
 

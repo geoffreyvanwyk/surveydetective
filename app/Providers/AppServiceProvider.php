@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace SurveyDetective\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

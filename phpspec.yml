@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: SurveyDetective
+        psr4_prefix: SurveyDetective
         src_path: app
